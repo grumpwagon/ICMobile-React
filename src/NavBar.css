@@ -1,0 +1,26 @@
+.NavBar-header {
+    background-color: #1ba8de;
+    height: 48px;
+}
+
+.NavBar-logo {
+    height: 32px;
+    background-color: #1ba8de;
+    float: left;
+    padding: 8px;
+}
+
+.NavBar-controls {
+    float: right;
+    padding: 8px;
+}
+
+#NavBar-logout {
+    height: 24px;
+    padding: 8px;
+}
+
+#NavBar-help {
+    height: 24px;
+    padding: 8px;
+}

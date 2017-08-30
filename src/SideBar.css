@@ -1,0 +1,19 @@
+.SideBar-menu {
+  color: #4c4c4c;
+  font-size: small;
+  background-color: white;
+  float: left;
+  width: 15%;
+  height: 95%;
+  position: absolute;
+  box-shadow: 1px 1px 1px 1px lightgray;
+}
+
+.SideBar-item {
+  text-align: left;
+  padding: 2px;
+}
+
+.SideBar-subitem {
+  text-align: left;
+}

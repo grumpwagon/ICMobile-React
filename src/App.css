@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.card {
+  text-align: left;
+  font-size: small;
+  background-color: white;
+  float: right;
+  width: 75%;
+  height: 70%;
+  position: relative;
+  padding: 12px;
+  margin-top: 1%;
+  box-shadow:  2px 2px 2px 2px gray;
+}
+
+ul {
+  list-style-type: none
+}
+
+body{
+  background-color: #edecec;
+}
